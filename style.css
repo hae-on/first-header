@@ -22,7 +22,8 @@ a {
 }
 
 .navbar__logo i {
-  color: turquoise;
+  color: tomato;
+  margin-right: 5px;
 }
 
 .navbar__menu {
@@ -45,7 +46,7 @@ a {
   position: absolute;
   right: 32px;
   font-size: 24px;
-  color: turquoise;
+  color: tomato;
 }
 
 .navbar__icons {
